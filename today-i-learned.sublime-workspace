@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"morris",
+				"morrisjs"
+			],
+			[
+				"pergunt",
+				"perguntasAtivas"
+			],
+			[
+				"cars",
+				"carsCrm"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"license",
+				"license_plate"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Cod",
+				"Cod_Comp"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"grupo",
+				"grupoEmpresas"
+			],
+			[
+				"Car",
+				"Cars"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leonardocorrea/Google Drive/today-i-learned",
+		"/Users/leonardocorrea/Google Drive/today-i-learned/cakephp-3"
+	],
+	"file_history":
+	[
+		"/Users/leonardocorrea/Google Drive/today-i-learned/README.md",
+		"/Users/leonardocorrea/Google Drive/today-i-learned/cakephp-3/update-cakephp-version.md",
+		"/Library/WebServer/Documents/mohrimoveis-admin/config/bootstrap.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Controller/UsersController.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Template/Properties/index.ctp",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Template/Users/login.ctp",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Template/Layout/default.ctp",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Controller/PropertiesController.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Template/Clients/index.ctp",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Template/Clients/add.ctp",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Controller/Component/DiversosComponent.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Controller/ClientsController.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Model/Table/UsersTable.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Model/Table/ClientsTable.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Controller/AppController.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/config/app.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Template/Users/add.ctp",
+		"/Library/WebServer/Documents/mohrimoveis-admin/.gitignore",
+		"/Library/WebServer/Documents/mohrimoveis-admin/src/Model/Entity/User.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/composer.json",
+		"/Library/WebServer/Documents/mohrimoveis-admin/View/Layouts/default.ctp",
+		"/Users/leonardocorrea/AndroidStudioProjects/model-t/app/src/belcar/res/values/colors.xml",
+		"/Users/leonardocorrea/Developer/ionic/cutePuppyPics/package.json",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/Component/CurlComponent.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/AppController.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/ClientsController.php",
+		"/Library/WebServer/Documents/revendas/.env",
+		"/Users/leonardocorrea/Documents/Analise-de-Sistemas/BancoDeDadosI/Modulo06.sql",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/PushNotificationsController.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/IntegrationsController.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/EventsController.php",
+		"/Users/leonardocorrea/AndroidStudioProjects/model-t/app/src/grupo_gnc/google-services.json",
+		"/Library/WebServer/Documents/tem-gente/Config/database.php",
+		"/Users/leonardocorrea/Desktop/conexao.cs",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/.gitignore",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/AbastecimentosController.php",
+		"/Library/WebServer/Documents/my_app_name/config/app.php",
+		"/Users/leonardocorrea/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Config/database.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/CarsController.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/UsersController.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/ClientsLocationsController.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Controller/CompaniesController.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Model/Abastecimento.php",
+		"/Library/WebServer/Documents/model-t-backend/gestor_web/Config/core.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/webroot/css/style.css",
+		"/Library/WebServer/Documents/mohrimoveis-admin/Config/core.php",
+		"/Library/WebServer/Documents/mohrimoveis-admin/sftp-config.json",
+		"/Library/WebServer/Documents/mohrimoveis-admin/Config/database.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"version",
+			"link",
+			"timezone",
+			"Belcar",
+			"add3",
+			"buscaClienteCrm",
+			"add3",
+			"A rod",
+			"media_url",
+			"media",
+			"entities",
+			"media_url",
+			"media",
+			"curlRequest",
+			"add2",
+			"add3",
+			"buscaClienteCrm",
+			"add3",
+			"getVeiculoClienteLogado",
+			"add3",
+			"add2",
+			"();\n",
+			"add2",
+			"getClienteLogado",
+			"add2",
+			"buscaClienteCrm",
+			"add2",
+			"buscaClienteCrm",
+			"add2",
+			"login2",
+			"getClienteLogado",
+			"integraRevisoesCliente",
+			"REVISOES",
+			"consultaAgendamentoConfirmado",
+			"'GET'",
+			"getVeiculoClienteLogado",
+			"edit2",
+			"delete2",
+			"add2",
+			"atualizaKmCrm",
+			"login2",
+			"getClienteLogado"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" <th>#</th>\n                <th>Nome</th>\n                <th>CPF</th>\n                <th>Email</th>\n                <th>Dt.Nascimento</th>\n                <th>Data Cadastro</th>\n                <th>Imóveis</th>\n                <th>Opções</th>",
+			"Autobel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "today-i-learned.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
