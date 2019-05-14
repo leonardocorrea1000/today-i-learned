@@ -2,7 +2,7 @@
 
 ## Docker command line  
 
-1. {+ docker ps +} - Lists running containers. Some useful flags include: -a / -all for all containers (default shows just running) and —-quiet /-q to list just their ids (useful for when you want to get all the containers).  
+1. ``` docker ps ``` - Lists running containers. Some useful flags include: -a / -all for all containers (default shows just running) and —-quiet /-q to list just their ids (useful for when you want to get all the containers).  
 
 2. {+ docker pull +} - Most of your images will be created on top of a base image from the Docker Hub registry. Docker Hub contains many pre-built images that you can pull and try without needing to define and configure your own. To download a particular image, or set of images (i.e., a repository), use docker pull.  
 
