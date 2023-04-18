@@ -8,5 +8,9 @@
 
 Source: http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/
 
+_____________
 
+## Another solution
+
+1. In finder simply hit Command + Shift + "." key
 
